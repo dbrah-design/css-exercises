@@ -1,4 +1,4 @@
-.Odd-styles {
+p {
     background-color: #FFB6C1;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -8,7 +8,6 @@
     font-size: 36px;
 }
 
-.Odd-styles,
 .paragraph-2 {
     font-size: 24px;
 }
